@@ -1,0 +1,17 @@
+*.pyc
+
+LeapCSharp.*
+LeapJava.jar
+x64/*
+x86/*
+UnityAssets/*
+tcl/*
+Scripts/*
+Lib/*
+Include/*
+np-hmm-master/*
+__init__.py
+leapSerialize.py
+pip-selfcheck.json
+Leap.py
+hmm.py
